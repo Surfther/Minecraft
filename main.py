@@ -1,9 +1,9 @@
 import math
-import random
+import random  # generate random variables
 import time
 
 from collections import deque
-from pyglet import image
+from pyglet import image  # Pyglet is a library for the Python programming language that provides an object-oriented application programming interface allowing the creation of games and other multimedia applications.
 from pyglet.gl import *
 from pyglet.graphics import TextureGroup
 from pyglet.window import key, mouse
