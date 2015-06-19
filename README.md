@@ -93,3 +93,5 @@ See the [wiki](https://github.com/fogleman/Minecraft/wiki) for this project to i
 ### Quitting
 
 - ESC: release mouse, then close window
+
+Well, I hope you would enjoy it!
